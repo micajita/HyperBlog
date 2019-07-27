@@ -1,7 +1,11 @@
 Estoy aprendiendo github
 Estoy haciendo el primero cambio 
 Agregamos una tercera linea
+<<<<<<< HEAD
 
 OTRO CAMBIO XD y otro cambioH
 
 HABLEMOS DE SU VIDA y obrea maestra
+=======
+MANIANA NOS ENFOCAMOS EN OTRA COSA
+>>>>>>> cabecera
