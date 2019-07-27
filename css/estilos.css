@@ -13,7 +13,9 @@ body{
     border: 1px solid cornflowerblue;
     margin: auto;    
 }
-
+#cabecera{
+    font-family: cursive;
+}
 h1 {
     font-size: 14px;
     text-align: center;
