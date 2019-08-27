@@ -1,0 +1,22 @@
+{
+  "name": "mypack",
+  "version": "1.0.0",
+  "description": "paquete de npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\"\u001b[Decho Error\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micajita/HyperBlog.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micajita/HyperBlog/issues"
+  },
+  "homepage": "https://github.com/micajita/HyperBlog#readme"
+}
